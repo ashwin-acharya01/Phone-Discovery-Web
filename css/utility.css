@@ -1,0 +1,15 @@
+.fl-r{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+.fl-c{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+.gd{
+    display: grid;
+    gap: 1em;
+}
+

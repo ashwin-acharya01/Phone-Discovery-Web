@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.compare-text{
+    text-align: center;
+    width: 100%;
+    padding: 2em;
+    margin: 2em 0;
+}
+.dw{
+    width: 60%;
+    margin: 1em auto;
+    display: flex;
+    gap: 5em;
+    align-items: center;
+    justify-content: center;
+}
+
+.head2-text{
+    margin-top: 1em;
+    text-align: center;
+}
+.comp-table{
+    width: 50%;
+    margin: 3em auto;
+    text-align: center;
+}

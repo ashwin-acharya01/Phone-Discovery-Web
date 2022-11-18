@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    margin-top: 3em;
+    font-family: 'Montserrat', sans-serif;
+}
+h1, h2{
+    font-weight: 600;
+}
+main.fl-c{
+    align-items: center;
+    gap: 3em;
+}
+main #comparison-btn{
+    margin-top: 3em;
+}
+.top.fl-r{
+    gap: 4em;
+    padding: 2em 0;
+    border-bottom: 2px solid rgb(56, 56, 56);
+}
+
+.top-left{
+    aspect-ratio: 16/9;
+    width: 50%;
+}
+
+.carousel-indicators li{
+    background-color: rgb(79, 79, 79);
+}
+.carousel-control-prev-icon{
+    background-color: rgb(79, 79, 79);
+    padding: 0.3em;
+    border-radius: 50%;
+}
+.carousel-control-next-icon{
+    background-color: rgb(79, 79, 79);
+    padding: 0.3em;
+    border-radius: 50%;
+}
+.top-right{
+    width: 50%;
+    justify-content: center;
+}
+.rating.fl-r{
+    gap: 3em;
+}
+.rating-comp.fl-c{
+    gap: 0;
+}
+li{
+    list-style-type: none;
+}
+.bottom.grid{
+    width: 80%;
+    gap: 2em;
+    text-align: center;
+    margin: 0 auto;
+    grid-template-columns: 50% 50%;
+    margin-bottom: 3em;
+}
+#comparison-btn{
+    padding: 1em;
+    background-color: transparent;
+    height: 4em;
+    border-radius: 6em;
+    font-weight: 600;
+    transition: .5s ease-in;
+    cursor: pointer;
+}
+#comparison-btn:hover{
+    background-color: rgb(56, 56, 56);
+    color: white;
+}
+
+@media(max-width: 768px) {
+    .top.fl-r{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
