@@ -27,7 +27,7 @@ The useage of mobile phones have sky-rocketed add it's popularity continues to i
 <img src = "https://user-images.githubusercontent.com/87590123/202839381-aedab52a-a0ba-4fc9-a954-69cea4932c2c.png" width = 600 height = 300>
 <img src = "https://user-images.githubusercontent.com/87590123/202838826-0f7a1182-8186-4990-854d-ba1fa6c148aa.png" width = 350 height = 500>
 <img src = "https://user-images.githubusercontent.com/87590123/202839093-c85063c2-48ec-4cfa-9fce-785c5e167d8f.png" width = 350 height = 500>
-<img src = "https://user-images.githubusercontent.com/87590123/202839145-930dfa60-83ef-4347-a9f5-a357d9d5a271.png" width = 400 height = 400>
+<img src = "https://user-images.githubusercontent.com/87590123/202839145-930dfa60-83ef-4347-a9f5-a357d9d5a271.png" width = 350 height = 350>
 <img src = "https://user-images.githubusercontent.com/87590123/202839325-95219c20-c2ce-4909-8f65-1f76caeed818.png" width = 350 height = 500>
 
 ## The process
