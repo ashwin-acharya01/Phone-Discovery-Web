@@ -54,10 +54,10 @@ Been a rough yet enjoyable journey where we learnt about
 
 At present this project just uses Data Analysis to suggest the best devices. In the future we wish build an AI model that'll help us come up with better analysis.
 
-## Author
+## Collaborators
 ### Github Links
-- [@Abhijeet Bhushari]()
-- [@Rohan Chaudhari]()
+- [@Abhijeet Bhushari](https://github.com/Abhijeet-Bhushari)
+- [@Rohan Chaudhari](https://github.com/raonebuddy)
 - [@Ashwin Acharya](https://github.com/ashwin-acharya01)
 
 ## This project is still under construction 🚧
